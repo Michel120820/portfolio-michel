@@ -17,3 +17,4 @@ portfolio/
 3. Vá em **Settings > Pages**.
 4. Em **Build and deployment**, escolha **Deploy from a branch**, branch `main` e pasta `/ (root)`.
 5. Salve. Em alguns minutos o site fica em `https://SEU-USUARIO.github.io/portfolio/`.
+6. 
